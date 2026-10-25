@@ -1,0 +1,4 @@
+campaign_id,start_date,end_date,targeted_households,other_households,targeted_spend_before,other_spend_before,targeted_spend_during,other_spend_during,naive_lift_pct,true_lift_pct,ci_low_pct,ci_high_pct
+8,2017-05-08,2017-06-25,1075,1257,364.0,136.0,359.0,143.0,151.0,-3.3,-7.1,0.5
+13,2017-08-08,2017-09-24,1077,1340,363.0,125.0,354.0,117.0,202.3,-0.3,-3.8,3.3
+18,2017-10-30,2017-12-24,1133,1317,404.0,137.0,440.0,157.0,180.8,4.1,0.6,7.5

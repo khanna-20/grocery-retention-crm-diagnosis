@@ -1,0 +1,13 @@
+q1_visit_band,produce_habit,households,lost_regular_pct,gone_completely_pct,times_vs_high_habit
+0. All households,1. Low,405,19.8,5.7,2.6
+0. All households,2. Mid,582,12.0,2.4,1.6
+0. All households,3. High,721,7.5,1.2,1.0
+1. 4-7 weeks,1. Low,216,28.7,8.8,1.6
+1. 4-7 weeks,2. Mid,218,20.2,2.8,1.1
+1. 4-7 weeks,3. High,221,18.1,2.7,1.0
+2. 8-10 weeks,1. Low,112,9.8,2.7,1.9
+2. 8-10 weeks,2. Mid,202,9.9,3.0,1.9
+2. 8-10 weeks,3. High,215,5.1,0.5,1.0
+3. 11-13 weeks,1. Low,77,9.1,1.3,8.3
+3. 11-13 weeks,2. Mid,162,3.7,1.2,3.4
+3. 11-13 weeks,3. High,285,1.1,0.7,1.0
